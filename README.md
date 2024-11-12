@@ -22,8 +22,7 @@ KINGOFTIME勤怠出力RPA
     - pipenv sync(初回のみ、pipfile.lockをもとにpipenvの環境を構築)
     - pipenv shell(仮想環境に入る)
     - python window.py(実行)
-    > [!Tip]
-    > pipのライブラリなどを新たに読み込む場合pipenv install ライブラリ名で実行すること
+    [!Tip]pipのライブラリなどを新たに読み込む場合pipenv install ライブラリ名で実行すること
 
 
 初めての実践なので読みづらい・効率の悪い部分あると思いますが、ご了承ください。
